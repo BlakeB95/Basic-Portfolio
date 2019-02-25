@@ -1,0 +1,46 @@
+body {
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+header {
+    background-color: #ffffff;
+    border: #cccccc;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    width: 70%;
+}
+
+.container {
+    margin: 0 auto;
+    height: 960px;
+}
+
+#name {
+    background-color: #4aaaa5;
+    color: #ffffff;
+    float: left;
+}
+
+#links {
+    float: right;
+}
+
+#picture {
+    float: left;
+}
+
+#about_me {
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    float: right;
+    width: 70%;
+}
+
+#footer {
+    border-top: 8px solid #4aaaa5;
+    text-align: center;
+    background-color: #aaaaaa;
+    position: fixed;
+    width: 100%;
+    left: 0;
+    bottom: 0;
+}
